@@ -1,6 +1,6 @@
 # Laravel + React Starter Kit + Modern PHP Tooling
 
-<a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-vue-starter-kit"><img src="https://img.shields.io/badge/Install%20with%20Herd-f55247?logo=laravel&logoColor=white"></a>
+<a href="https://herd.laravel.com/new?starter-kit=shipfastlabs/modern-react-starter-kit"><img src="https://img.shields.io/badge/Install%20with%20Herd-f55247?logo=laravel&logoColor=white"></a>
 
 ## Introduction
 
@@ -12,7 +12,7 @@ This React starter kit utilizes React 19, TypeScript, Tailwind, and the [shadcn/
 
 ## Enhanced Features
 
-This kit extends the official Laravel Vue starter with additional development tools and quality assurance:
+This kit extends the official Laravel React starter with additional development tools and quality assurance:
 
 - **PHPStan (Maximum Level)**: Static analysis at the highest level for robust type checking
 - **Laravel Pint**: Automated styling with opinionated rules approved by Nuno Maduro
@@ -24,7 +24,7 @@ This kit extends the official Laravel Vue starter with additional development to
 - **IDE Helper**: Enhanced IDE support for Laravel facades and models
 - **Updated APP Service Provider**: Updated to use some secure and modern practices
 
-> This starter kit is regularly synchronized with the official Laravel Vue starter kit to ensure you get the latest features and security updates.
+> This starter kit is regularly synchronized with the official Laravel React starter kit to ensure you get the latest features and security updates.
 
 ## Installation
 
